@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **alyahusnachoirunnisa@gmail.com**
 
-- ⚡ Fun fact **I love coffee**
+- ⚡ Fun fact **I'm a coffee addict**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
