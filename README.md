@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyahusnachoirunnisa&label=Profile%20views&color=0e75b6&style=flat" alt="alyahusnachoirunnisa" /> </p>
 
-Fresh graduate majoring Mathematics Education who has an interest in the field Data Science and Data Analyst. I have completed several relevant courses in statistics, data analysis, and programming. Through my academic projects, I have gained hands-on experience in data manipulation, visualization, and predictive modeling using tools such as Python, R, SQL, and Excel.
+I'm a fresh graduate majoring Mathematics Education who has an interest in the field Data Science and Data Analyst. I have completed several relevant courses in statistics, data analysis, and programming. Through my academic projects, I have gained hands-on experience in data manipulation, visualization, and predictive modeling using tools such as Python, R, SQL, and Excel.
 </p>
 
 - 🌍 I'm based in Indonesia
