@@ -6,8 +6,8 @@
 I'm a fresh graduate majoring Mathematics Education who has an interest in the field Data Science and Data Analyst. I have completed several relevant courses in statistics, data analysis, and programming. Through my academic projects, I have gained hands-on experience in data manipulation, visualization, and predictive modeling using tools such as Python, R, SQL, and Excel.
 </p>
 
-- 🌍 I'm based in Indonesia
-- 🌱 I’m currently learning **Machine Learning** and working on several independent projects
+- 🌍 Based in Indonesia
+- 🌱 Currently learning **Machine Learning** and working on several independent projects
 
 <h3 align="center">Reach me out through:</h3>
 <div align="center">
