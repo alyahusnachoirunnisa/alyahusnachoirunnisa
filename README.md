@@ -1,16 +1,10 @@
-[![MasterHead](https://im.ezgif.com/tmp/ezgif-1-15102f2286.gif)](https://alyahusnachoirunnisa.io)
+[![MasterHead](https://s13.gifyu.com/images/SjxzY.gif)](https://alyahusnachoirunnisa.io)
 <h1 align="center">Hi 👋, I'm Alya Husna Choirunnisa</h1>
-<h3 align="center">A passionate data scientist from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyahusnachoirunnisa&label=Profile%20views&color=0e75b6&style=flat" alt="alyahusnachoirunnisa" /> </p>
 
-<p align="left"> <a href="https://twitter.com/cho_alya" target="blank"><img src="https://img.shields.io/twitter/follow/cho_alya?logo=twitter&style=for-the-badge" alt="cho_alya" /></a> </p>
-
-- 🌱 I’m currently learning **Natural Language Processing and Computer Vision**
-
-- 📫 How to reach me **alyahusnachoirunnisa@gmail.com**
-
-- ⚡ Fun fact **Coffee is my jam☕**
+- 👀 I’m interested in **Data Science** things
+- 🌱 I’m currently learning **Natural Language Processing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
