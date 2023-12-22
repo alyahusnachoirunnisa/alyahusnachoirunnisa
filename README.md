@@ -1,6 +1,6 @@
+[![MasterHead](https://im.ezgif.com/tmp/ezgif-1-15102f2286.gif)](https://alyahusnachoirunnisa.io)
 <h1 align="center">Hi 👋, I'm Alya Husna Choirunnisa</h1>
 <h3 align="center">A passionate data scientist from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWl2Y2VtemxvdjI1cW45aWYzNW94YmN3eGE2cGlldXdmYTFodDhwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/paTz7UZbPfTZFRYnnB/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyahusnachoirunnisa&label=Profile%20views&color=0e75b6&style=flat" alt="alyahusnachoirunnisa" /> </p>
 
