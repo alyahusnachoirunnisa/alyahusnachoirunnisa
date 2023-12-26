@@ -1,4 +1,4 @@
-[![MasterHead](https://s13.gifyu.com/images/SjmJz.gif)](https://alyahusnachoirunnisa.io)
+[![MasterHead](https://s13.gifyu.com/images/Sjq2q.gif)](https://alyahusnachoirunnisa.io)
 <h1 align="center">Hi 👋, I'm Alya Husna Choirunnisa</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyahusnachoirunnisa&label=Profile%20views&color=0e75b6&style=flat" alt="alyahusnachoirunnisa" /> </p>
