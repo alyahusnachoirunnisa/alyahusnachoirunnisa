@@ -11,9 +11,7 @@ I'm a fresh graduate majoring Mathematics Education who has an interest in the f
 
 <h3 align="center">Reach me out through:</h3>
 <div align="center">
-<a href="https://twitter.com/cho_alya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cho_alya" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/alyahusnachoirunnisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alya husna choirunnisa" height="30" width="40" /></a>
-<a href="https://instagram.com/alyahusnaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alyahusnaa" height="30" width="40" /></a>
 <a href="mailto:alyahusnachoirunnisa@gmail.com" target="blank"><img align="center" src="https://th.bing.com/th/id/R.847c083cc09040091439e3c05d1fedde?rik=tOrug5OyfAGuLg&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fgmail-vector-png--1600.png&ehk=VTJa3p2Re%2fUIpZwLx3YysDzrIA8PYa8m%2fRRrP7bx0a0%3d&risl=&pid=ImgRaw&r=0" alt="alya husna choirunnisa" height="40" width="40" /></a>
 </p>
 </div>
